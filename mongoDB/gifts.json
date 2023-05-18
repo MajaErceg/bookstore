@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "6135c0b35920d8e6b74a9a35"
+  },
+  "name": "MAD DOTS SPARKLE JEWEL DISH",
+  "manufacturer": "LESSER & PAVEY LTD",
+  "price": 408.5,
+  "description": "Porcelain plate for small jewelry with a nice inscription and heart-shaped decoration. It comes in a box, filled with styrofoam for safety.",
+  "image": "https://www.knjizare-vulkan.rs/files/watermark/files/thumbs/files/images/slike_proizvoda/thumbs_1200/thumbs_w/355815_1200_1200px_w.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a54da38797988d422ec79"
+  },
+  "name": "CENTRAL PERK mat ",
+  "manufacturer": "PYRAMID ",
+  "price": 1020.5,
+  "description": "Mat with motif from the series Friends CENTRAL PERK. Dimensions 40 x 60 cm. Tire material. ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/351861_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a55e738797988d422ed27"
+  },
+  "name": "Wood&Tonka 100ml",
+  "manufacturer": "KLIKERMAT  ",
+  "price": 2399,
+  "description": "For lovers of woody, oriental notes of sandalwood, cedar and patchouli. The set contains rattan sticks and a bottle with an oil texture with a volume of 100 ml. Product shelf life: 24M",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/352164_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a566238797988d422ed7d"
+  },
+  "name": "Candleholder MANGO ",
+  "manufacturer": "VITER",
+  "price": 3800,
+  "description": "Metal candlestick with a base of real mango wood. It is golden inside, brown on the outside. Conical in shape, slightly tapering upwards. Base diameter 16.5 cm. Height 18 cm. ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/353134_1_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a56b538797988d422edbb"
+  },
+  "name": "Drinking bottle BONJOUR ",
+  "manufacturer": "PPD PAPERPRODUCTS DESIGN",
+  "price": 1643,
+  "description": "Stainless steel drink bottle with double walls and vacuum insulation - keeps drinks hot for up to 12 hours or cold for 24 hours. Not suitable for washing in the dishwasher or use in the microwave. Capacity 500 ml. ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/356595_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a570a38797988d422ee03"
+  },
+  "name": "BIOLOCO thermo bottle NIGHT GRAY",
+  "manufacturer": "CHIC.MIC GmbH ",
+  "price": 2090,
+  "description": "A bottle of very attractive modern design from the Bioloco Loop collection made of a combination of stainless steel and completely environmentally friendly materials.",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/358199_1_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a577c38797988d422ee61"
+  },
+  "name": "Porcelain cup BEACH ANCHOR ",
+  "manufacturer": "PPD PAPERPRODUCTS DESIGN ",
+  "price": 1560,
+  "description": "Large porcelain cup of attractive design with wooden base. The cup comes in an adequate gift box with identical illustrations. The capacity of the cup is 350ml - the dimensions of the cup are 10 x 9.8 cm while the dimensions of the box are 11.3 x 12.5 x 11.6 cm. ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/356596_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a57e138797988d422eea9"
+  },
+  "name": "Magnetic photo and card holder",
+  "manufacturer": "KLIKERMAT D.O.O",
+  "price": 1240,
+  "description": "Magnetic photo and card holder in silver KLIKERMAT D.O.O. The most beautiful gifts are those that have a personal touch. This magnetic photo holder or message card has a simple and minimalist design. It can fit into any space and is therefore an ideal gift for any home.",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/291294_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a585438797988d422ef0f"
+  },
+  "name": "Glass jar: ANGEL FLOWER ",
+  "manufacturer": "CANDLELIGHT PRODUCTS LTD",
+  "price": 190,
+  "description": "Scented candle in a glass jar: ANGEL FLOWER A large scented candle in a purple glass jar with a beautiful boho design and lid - the perfect gift and addition to any home. A candle with the scent of an angel flower of 380 g has a burning time of 45 hours and should always be handled carefully after lighting. ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/349532_600_600px.jpg",
+  "seller_username": "maja"
+}]

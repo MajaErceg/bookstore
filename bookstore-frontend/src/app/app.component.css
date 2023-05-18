@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  a{
+      text-decoration: none;
+      color: rgba(247, 221, 189, 0.922);
+  }
+

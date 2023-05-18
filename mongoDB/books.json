@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "613a46e238797988d422e7de"
+  },
+  "book": "Lisey story",
+  "name": "Lisey story",
+  "type": "Horror",
+  "author": "Stephen King",
+  "publisher": "Hodder",
+  "price": 1250,
+  "description": "Every marriage has two hearts, one light and one dark. Lisey knew it when she first fell for Scott. And now he's dead, she knows it for sure. Lisey was the light to Scott Landon's dark for twenty-five years. As his wife, only she saw the truth behind the public face of the famous author - that he was a haunted man whose bestselling novels were based on a terrifying reality.",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/357942_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a479a38797988d422e7fa"
+  },
+  "book": "Shadow and Bone",
+  "name": "Shadow and Bone",
+  "type": "Fantasy",
+  "author": "Leigh Bardugo",
+  "publisher": "ORION",
+  "price": 1500,
+  "description": "Soldier. Summoner. Saint. Orphaned and expendable, Alina Starkov is a soldier who knows she may not survive her first trek across the Shadow Fold - a swath of unnatural darkness crawling with monsters. But when her regiment is attacked, Alina unleashes dormant magic not even she knew she possessed. Now Alina will enter a lavish world of royalty and intrigue as she trains wi...",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/355421_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a481f38797988d422e81a"
+  },
+  "book": "Les Miserables",
+  "name": "Les Miserables",
+  "type": "Classics",
+  "author": "Victor Hugo",
+  "publisher": "CANTARBURY CLASSICS",
+  "price": 2150,
+  "description": "Les Miserables is widely considered one of the greatest novels of the 19th century. First published in France in 1862, it is Victor Hugo's greatest achievement--the ultimate tale of redemption. Former prisoner Jean Valjean struggles to live virtuously after an unexpected act of forgiveness by a kindly bishop changes his life. His righteous actions change people's lives in su. ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/341700_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a487b38797988d422e834"
+  },
+  "book": "The art of war",
+  "name": "The art of war",
+  "type": "Fiction",
+  "author": "SSun Tzu",
+  "publisher": "ALMA BOOKS",
+  "price": 514,
+  "description": "For two and a half thousand years The Art of War has been the core text of military strategy and planning, providing leaders with enduring insights into tactics, psychology, discipline and the nature of power. Favoured by countless great generals and military tacticians throughout history, over the last century the book has found a new lease of life, inspiring business lead... ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/349518_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a491938797988d422e865"
+  },
+  "book": "Here She Comes Now",
+  "name": "Here She Comes Now",
+  "type": "Music",
+  "author": "Jeff Gordinier, Marc Weingarten",
+  "publisher": "ICON",
+  "price": 1355,
+  "description": "Here She Comes Now brings together some of America’s best music writers – such as Susan Choi, recipient of the inaugural PEN / W.G. Sebald award, Daniel Walters, whose credits include the screenplay for Heathers, and Alina Simon, whose novel Note to Self was described as ‘hilarious’ by Amanda Palmer - to explore incredible women in popular music. Often wryly amusing – even... ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/340218_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a49bd38797988d422e897"
+  },
+  "book": "book",
+  "name": "BEATLES TIN",
+  "type": "Music",
+  "author": "various",
+  "publisher": " Igloo Books Limited",
+  "price": 935,
+  "description": "The Beatles' international discography is more complicated due to different versions of their albums sometimes being released in other countries, particularly during their early years on Capitol Records in North America. Prior to 1967, it was common practice for British releases to be reconfigured for the American market. In some cases, the US version would be an entirely different album with different tracks, cover photos and liner notes.",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/349826_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a4a3538797988d422e8c5"
+  },
+  "book": "1001 Walks",
+  "name": "1001 Walks",
+  "type": "Travel",
+  "author": "Barry Stone",
+  "publisher": "OPG CASSELL",
+  "price": 2650,
+  "description": "1001 Walks You Must Experience Before You Die is the perfect guide to the world's most exhilarating walks. The ever-increasing passion for recreational walking is given fresh impetus with the creation of each new national park and wilderness area, the construction of every new walkway and the clearing of another fresh trail. The growth in popularity of pathways and woodland ...",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/329403_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a4aa338797988d422e8e6"
+  },
+  "book": "Bali and Lombok eyewitness",
+  "name": "Bali and Lombok eyewitness",
+  "type": "Travel",
+  "author": "DK",
+  "publisher": "DK",
+  "price": 1099,
+  "description": "Discover Bali and Lombok with this essential travel guide, designed to help you create your own unique trip and to transport you to these beautiful islands before you've even packed your case - explore the myriad wildlife in Bali's Barat National Park, island-hop between the Gili Isles of Lombok, or relax on the tranquil island of Nusa Lembongan. The DK Eyewitness Guide to ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/335356_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a4b0238797988d422e901"
+  },
+  "book": "Who ate the first oyster",
+  "name": "Who ate the first oyster",
+  "type": "Popular science",
+  "author": "Cody Cassidy",
+  "publisher": "HEADLINE",
+  "price": 3099,
+  "description": "This madcap adventure across ancient history uses everything from modern genetics to archaeology to uncover the geniuses behind these and other world-changing innovations. In this book, writer Cody Cassidy digs deep into the latest research to uncover the untold stories of some of these incredible innovators (or participants in lucky accidents). With a sharp sense of humor ..",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/355683_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a4b6238797988d422e92d"
+  },
+  "book": "Who ate the first oyster",
+  "name": "Who ate the first oyster",
+  "type": "MIND,BODY AND SPIRIT ",
+  "author": "Sally Searle",
+  "publisher": "IVY PRESS",
+  "price": 1790,
+  "description": "Secrets of Pilates offers a comprehensive introduction for anyone wanting to develop body strength, reduce stress levels and enhance both psychological and physical well-being. This illustrated guide will teach you to develop a mental awareness of how your body moves, resulting in a graceful posture, toned limbs and a firm abdomen in as little as ten minutes a day through ... ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/354541_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a4bdc38797988d422e956"
+  },
+  "book": "The ultimate guide to witchcraft",
+  "name": "The ultimate guide to witchcraft",
+  "type": "MYSTICISM, SPIRITUALITY, OCCULT",
+  "author": "Anjou Kiernan",
+  "publisher": "FAIR WINDS PRESS",
+  "price": 2055,
+  "description": "Magic is not for the select few. We all have the ability to connect to the power of the natural and supernatural worlds to support our intentions. Blending ancient practices with modern context, this guide gives aspiring witches a practical, easy-to-follow path through the study of natural witchcraft and ritual. The Ultimate Guide to... series offers comprehensive beginner'. ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/354539_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "631db7d2301d8f19089c9b92"
+  },
+  "book": "Nebo i zemlja",
+  "type": "Love romance",
+  "author": "Nora Roberts",
+  "publisher": "Vulkan",
+  "price": 1000,
+  "description": "Mirišljave sveće, latice irisa i grančica ruzmarina postavljaju scenu za magiju i romansu na obalama Nove Engleske i u životima tri strastvene, moćne žene. Ripli Tod ima divan život.",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/368946_600_600px.jpg.webp",
+  "seller_username": "makica10",
+  "_class": "com.example.bookstorebackend.entity.Books"
+}]

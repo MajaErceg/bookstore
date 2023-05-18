@@ -1,0 +1,44 @@
+<section fxLayout="column" fxLayoutAlign="center center"  >
+    <form fxLayout="column" fxLayoutAlign="center center" fxLayoutGap="10px"
+    #f="ngForm" (ngSubmit)="onSubmit(f)">
+        <mat-form-field>
+            <input type="text" ngModel matInput placeholder="Book name" name="book"
+            required #bookInput="ngModel" [(ngModel)]="data.book">
+        </mat-form-field>
+
+        <mat-form-field>
+            <input type="text" ngModel matInput placeholder="Book type" name="type"
+            required  #typeInput="ngModel" [(ngModel)]="data.type"> 
+        </mat-form-field>
+
+        <mat-form-field>
+            <input type="text" ngModel matInput placeholder="Book author" name="author"
+            required #authorInput="ngModel" [(ngModel)]="data.author">
+        </mat-form-field>
+
+        <mat-form-field >
+            <input type="text" ngModel matInput placeholder="Book publisher" name="publisher"
+            required  #publisherInput="ngModel" [(ngModel)]="data.publisher">
+        </mat-form-field>
+
+        <mat-form-field >
+            <input type="number" ngModel matInput placeholder="Book price" name="price"
+            required  #priceInput="ngModel" [(ngModel)]="data.price">
+        </mat-form-field>
+
+        <mat-form-field >
+            <textarea rows="8" type="text" ngModel matInput placeholder="Book description" name="description"
+            required  #descriptionInput="ngModel" [(ngModel)]="data.description"></textarea>
+        </mat-form-field> 
+
+        <mat-form-field >
+            <input type="text" ngModel matInput placeholder="Image" name="image"
+            required  #imageInput="ngModel" [(ngModel)]="data.image">
+        </mat-form-field>
+
+        {{message}}
+
+        <button type="submit" mat-raised-button color="primary">Update</button>
+    </form>
+</section>
+

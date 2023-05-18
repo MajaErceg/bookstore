@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "6135c39c5920d8e6b74a9b40"
+  },
+  "kids": "Puzzle",
+  "name": "HARRY POTTER 3D puzzle Hogwarts",
+  "manufacturer": "DEXY CO DOO ",
+  "price": 2999,
+  "description": "The Hogwarts Astronomy Tower 3D puzzle is the ultimate gift for all fans of the magical world of the wizard Harry Potter!Conquer the magic of Harry Potter and create your own magic as you assemble your stunning Hogwarts astronomical tower in comfort your home and you return to the exciting scenes from the Harry Potter saga with this dramatic 3D model.",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/357964_1_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a4cca38797988d422e98e"
+  },
+  "kids": "Puzzle",
+  "name": "Puzzle SNEZANA",
+  "manufacturer": "MAGAZA KOMISION",
+  "price": 780,
+  "description": "Educational puzzle set 2 in 1, Lisciani 150 pieces, with the motif of Snow White and seven dwarfs.Quality puzzle with your favorite Disney heroes. The assembled puzzle on its other side becomes a coloring book, which the child should color. The dimensions of the assembled puzzle are 70x50cm",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/355053_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a4d3538797988d422e9a4"
+  },
+  "kids": "Puzzle",
+  "name": "Puzzle DAMBO",
+  "manufacturer": "MAGAZA KOMISION",
+  "price": 999,
+  "description": "Educational puzzle set 2 in 1, Lisciani 35 pieces, with Dambo motif.Quality puzzle with your favorite Disney heroes. The assembled puzzle on its other side becomes a coloring book, which the child should color. The dimensions of the assembled puzzle are 70x50cm ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/355064_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a4e6d38797988d422e9c9"
+  },
+  "kids": "Educational toys",
+  "name": "CARTINA educational puzzle  ",
+  "manufacturer": "MAGAZA KOMISION",
+  "price": 959,
+  "description": "With an educational set of progressive puzzles, the child will gradually develop his logical and intellectual abilities by putting the puzzles together with an increasing number of pieces. And with that, get to know the animals that live on the fami ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/355034_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a4f3238797988d422e9ff"
+  },
+  "kids": "Educative game",
+  "name": "FORMULA GRAN PRIX",
+  "manufacturer": "MAGAZA KOMISION",
+  "price": 2456,
+  "description": "The educational toy Hi-tech Formula Racer constructor Lisciani is a set for assembling Formula 1 like a real engineer constructor. The Hi-tech Formula Racer educational toy is a constructor of quality workmanship, and consists of 162 parts, with detailed instructions with illustrations for assembling the vehicle. Educational toy Hi-tech Formula Racer constructor is made of quality ... ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/355038_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a4f8938797988d422ea14"
+  },
+  "kids": "Educative game",
+  "name": "MONTESORI Educative game",
+  "manufacturer": "MAGAZA KOMISION",
+  "price": 1956,
+  "description": "Educational game Tactile Numbers consists of placing puzzle inserts in the shape of numbers in a Montessori box. The number-shaped puzzles are hidden from view, which is why the child puts his hands in the provided openings on the box and searches for the numbers in the box using the sense of touch. The goal is to assemble the puzzle so that each number will come to the appropriate place on the puzzle ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/355048_1_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a500738797988d422ea3c"
+  },
+  "kids": "Toys",
+  "name": "CAROTINA BABY block set",
+  "manufacturer": "MAGAZA KOMISION",
+  "price": 1906,
+  "description": "The cubes in the Carotina baby backpack are cubes specially created for younger children. The Cubes set in a baby backpack contains 24 colorful plastic cubes with rounded edges, cardboard pictures of animals that can be placed on cubes and one backpack, decorated with a motif of a fox and other animals, for carrying cubes. Through playing with dice, the child develops creativity and exercises motor skills and coordination.",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/355019_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a506438797988d422ea5a"
+  },
+  "kids": "Toys",
+  "name": "TRANSPORTER LORRY",
+  "manufacturer": "BIG JIGS TOYS Ltd",
+  "price": 2881,
+  "description": "Made of high quality materials with a responsible source. Adapted to current European safety standards.Made of high quality materials with a responsible source. Adapted to current European safety standards.Made of high quality materials with a responsible source. Adapted to current European safety standards.",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/327442_1_600_600px.jpg",
+  "seller_username": "maja"
+}]

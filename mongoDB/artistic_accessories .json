@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6135c2945920d8e6b74a9af7"
+  },
+  "accessory": "Acrylic paints",
+  "name": "Acrylic 10",
+  "manufacturer": "NBK",
+  "price": 1490,
+  "description": "Acrylic paints are high quality water-soluble dispersion paints. They can be applied with a brush. with a roller or spatula on any non-greasy surface. The colors are characterized by high pigment content and color fastness. After drying it forms a flexible waterproof.",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/357492_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a513d38797988d422eab6"
+  },
+  "accessory": "Watercolor paints ",
+  "name": "Watercolor wood paint 1/12",
+  "manufacturer": "NBK",
+  "price": 2165,
+  "description": "Set of 24 watercolors - PORTRAIT - in a metal box. The crayons are hexagonal 7 mm in diameter with a high quality pigment core 3.8 mm in diameter. They leave a rich trace of color with the possibility of further changing the drawing using a brush or sponge ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/357477_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a51e838797988d422eafa"
+  },
+  "accessory": "Graphite drawing pencils ",
+  "name": "FC graphite pencils 9000/6B",
+  "manufacturer": "NBK",
+  "price": 199,
+  "description": "The highest quality Faber pen, ideal for writing, drawing and sketching.Pen body in green color (ecological water-based color)Mine resistant to breakage, due to the procedure of secondary gluing. Degree of hardness: 6B  ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/357268_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a522a38797988d422eb13"
+  },
+  "accessory": "Graphite drawing pencils ",
+  "name": "Graphite pencils 1500 9H",
+  "manufacturer": "NBK",
+  "price": 99,
+  "description": "Traditional yellow graphite pencils made of quality wood. The graphite core is available in 20 different grades depending on the application. Hardness and softness are clearly monitored in relation to the application itself. The pens are ideal for technicians. graphic artists and artists.",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/357460_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a52b338797988d422eb53"
+  },
+  "accessory": "CALIGRAPHY MARKERS",
+  "name": "Calligraphy liner BLACK 1.0 ",
+  "manufacturer": "PULSE OFFICE D.O.O.",
+  "price": 359,
+  "description": "Calligraphy marker, contains pigment ink resistant to water and light and is specially designed for calligraphy. Black color 1.0mm ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/356215_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a532a38797988d422eb82"
+  },
+  "accessory": "PEN CARTRIDGES ",
+  "name": "Calligraph pen cartridges 1/6 red ",
+  "manufacturer": "PULSE OFFICE D.O.O.",
+  "price": 279,
+  "description": "CCalligraph pen cartridges 1/6 red, contains pigment ink resistant to water and light and is specially designed for calligraphy. Black color 1.0mm ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/356230_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a53ce38797988d422ebd2"
+  },
+  "accessory": "Additional creative accessories ",
+  "name": "ELMER glue Starter set ",
+  "manufacturer": "EUROCOM INTERNATIONAL",
+  "price": 2180,
+  "description": "Elmers slime starter pack 472ml.Enjoy having fun with this Elmers slime starter kit! The Elmers starter set contains everything you need to make a slime at home. The set contains: 2 bottles of transparent glue, 4 pencils with glossy glitter glue and 2 bottles of the Magic Activator for making slime.",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/357360_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a544038797988d422ec06"
+  },
+  "accessory": "Additional creative accessories",
+  "name": "ELMER glue with sequins 177ml pink ",
+  "manufacturer": "EUROCOM INTERNATIONAL",
+  "price": 699,
+  "description": "ELMER glue with sequins 177ml pink , contains pigment ink resistant to water and light and is specially designed for calligraphy. Black color 1.0mm ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/350980_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a54bf38797988d422ec5a"
+  },
+  "accessory": "Additional creative accessories",
+  "name": "Face paints - CLOWN",
+  "manufacturer": "AMPHORA",
+  "price": 1135,
+  "description": "The set contains 4 pieces of face and body paint and a brush, easy to use and remove, can be mixed, dries quickly. ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/355974_600_600px.jpg",
+  "seller_username": "maja"
+}]

@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6135bf785920d8e6b74a9a18"
+  },
+  "school_supplies": "School bag",
+  "name": "Santoro backpack with stroller THE DUET ",
+  "manufacturer": "SANTORO",
+  "price": 3455,
+  "description": "Santoro school backpack with three compartments and built-in wheelchairs. The backpack features an ergonomically reinforced back and adjustable shoulder straps and a strap compartment when the backpack is not worn on the back, as well as a strong loop at the top for easy carrying and storage. It also contains two mesh partitions on the sides provided for a water bottle or umbrella. The backpack is closed with strong double-breasted zippers that contain a decorative pendant.",
+  "image": "https://www.knjizare-vulkan.rs/files/watermark/files/thumbs/files/images/slike_proizvoda/thumbs_1200/thumbs_w/355799_1_1200_1200px_w.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a58ff38797988d422efb1"
+  },
+  "school_supplies": "School bag",
+  "name": "Backpack DREAM OF LOVE ",
+  "manufacturer": "PULSE OFFICE D.O.O.",
+  "price": 3975,
+  "description": "Dimensions: 32 x 44 x 22 cm - Weight: 0.93 kg - Material: waterproof polyester 600D Other: anatomical back support, reflective materials on the front and sides, raincoat hidden in a pocket at the bottom of the backpack, 1 main compartment, 2 front pockets, 2 side pockets suitable for carrying bottles, height control buckles and buckles around the chest and waist, rubber label on which...",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/334943_1_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a594e38797988d422f001"
+  },
+  "school_supplies": "School bag",
+  "name": "Backpack KIMMIDOLL",
+  "manufacturer": "GRAFFITI S.A.",
+  "price": 4717,
+  "description": "Large school backpack with two compartments and three pockets. The backpack contains two spacious compartments with a double zipper and one outer front pocket. On the sides of the backpack there is a stretchable pocket for a bottle or a small umbrella and one small pocket with a zipper. The backpack also contains a reinforced and softened back lined with mesh so as not to irritate the skin. ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/357685_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a59c638797988d422f071"
+  },
+  "school_supplies": "Pencil case",
+  "name": "Pencil case LITTLE DANCER",
+  "manufacturer": "SANTORO",
+  "price": 1345,
+  "description": "Santoro empty pencil case in the shape of a kit with two compartments. The exterior of the pencil case is made with glittering details. The pencil case is made of polyester and contains two spacious partitions and two strong zippers with a decorative pendant. Great choice for various accessories such as scissors, glue, concealer. ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/355748_1_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a5a1f38797988d422f0be"
+  },
+  "school_supplies": "Pencil case",
+  "name": "Pencil case BENETTON",
+  "manufacturer": "LUSPAP SAFTA",
+  "price": 593,
+  "description": "Square empty silicone pencil case with one compartment. The pencil case is made of silicone material and contains a strong zipper with a decorative pendant. Great choice for various accessories such as scissors, glue, concealer. ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/357070_1_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a5a7f38797988d422f121"
+  },
+  "school_supplies": "Pencil case",
+  "name": "Pencil case PINK ARMY ",
+  "manufacturer": "PULSE OFFICE",
+  "price": 585,
+  "description": "The new model of pencil cases for teenagers is available in several color combinations that are paired with the corresponding backpack model. The new closing system provides easier access to the contents of the pencil case. A zippered pocket for small items is located inside the pencil case. ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/356755_1_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a5b0238797988d422f19f"
+  },
+  "school_supplies": "Notebooks",
+  "name": "Notebooks B5 PERFECT BOUND ",
+  "manufacturer": "INTERDRUK SA ",
+  "price": 595,
+  "description": "B5 format paper with 160 squared sheets, 70g paper, with matte cover. When ordering, emphasize the motif of the notebook.",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/356718_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a5b7138797988d422f206"
+  },
+  "school_supplies": "Message blocks",
+  "name": "Self-adhesive markers",
+  "manufacturer": "INTERDRUK SA ",
+  "price": 216,
+  "description": "Message block of attractive design with a square shape of 50 sheets. ",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/356741_600_600px.jpg",
+  "seller_username": "maja"
+},{
+  "_id": {
+    "$oid": "613a5bf538797988d422f29b"
+  },
+  "school_supplies": "A compass ",
+  "name": "S-COOL compass ",
+  "manufacturer": "NBK",
+  "price": 211,
+  "description": "A quality set that is easy to adjust and allows you to draw according to precise measurements; packed in a simple plastic box with spare mines.",
+  "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/356274_600_600px.jpg",
+  "seller_username": "maja"
+}]

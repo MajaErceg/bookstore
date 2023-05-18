@@ -1,0 +1,13 @@
+form{
+    height: 90vh;
+    background-color: rgb(250, 235, 215, 0.5);
+}
+
+mat-form-field {
+    width: 400px;
+}
+h1{
+    padding: 30px;
+    color: black;
+    font-weight: bold;  
+}

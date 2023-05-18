@@ -1,0 +1,19 @@
+section{
+    background-color: bisque; 
+}
+form{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid burlywood;
+    border-radius: 15px;
+    background-color: blanchedalmond;
+    height: 100vh;
+}
+
+mat-form-field {
+    width: 400px;
+  
+}

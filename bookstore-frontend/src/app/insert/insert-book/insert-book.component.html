@@ -1,0 +1,50 @@
+<section fxLayout="column" fxLayoutAlign="center center" >
+    <form fxLayout="column" fxLayoutAlign="center center" fxLayoutGap="10px"
+    #f="ngForm" (ngSubmit)="onSubmit(f)">
+        <mat-form-field>
+            <input type="text" ngModel matInput placeholder="Book name" name="book"
+            required #bookInput="ngModel">
+            <mat-error *ngIf="bookInput.hasError('required')">Field should not be empty</mat-error>
+        </mat-form-field>
+
+        <mat-form-field>
+            <input type="text" ngModel matInput placeholder="Type" name="type"
+            required  #typeInput="ngModel"> 
+            <mat-error *ngIf="typeInput.hasError('required')">Field should not be empty</mat-error>
+        </mat-form-field>
+
+        <mat-form-field>
+            <input type="text" ngModel matInput placeholder="Book author" name="author"
+            required #authorInput="ngModel">
+            <mat-error *ngIf="authorInput.hasError('required')">Field should not be empty</mat-error>
+        </mat-form-field>
+
+        <mat-form-field >
+            <input type="text" ngModel matInput placeholder="Book publisher" name="publisher"
+            required  #publisherInput="ngModel">
+            <mat-error *ngIf="publisherInput.hasError('required')">Field should not be empty</mat-error>
+        </mat-form-field>
+
+        <mat-form-field >
+            <input type="number" ngModel matInput placeholder="Book price" name="price"
+            required  #priceInput="ngModel">
+            <mat-error *ngIf="priceInput.hasError('required')">Field should not be empty</mat-error>
+        </mat-form-field>
+
+        <mat-form-field >
+            <textarea rows="8" type="text" ngModel matInput placeholder="Book description" name="description"
+            required  #descriptionInput="ngModel"></textarea>
+            <mat-error *ngIf="descriptionInput.hasError('required')">Field should not be empty</mat-error>
+        </mat-form-field> 
+
+        <mat-form-field >
+            <input type="text" ngModel matInput placeholder="Image" name="image"
+            required  #imageInput="ngModel">
+            <mat-error *ngIf="imageInput.hasError('required')">Field should not be empty</mat-error>
+        </mat-form-field>
+
+        {{message || ""}}
+
+        <button type="submit" mat-raised-button color="primary" [disabled]="f.invalid">Submit</button>
+    </form>
+</section>

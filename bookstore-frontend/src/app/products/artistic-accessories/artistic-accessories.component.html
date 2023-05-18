@@ -1,0 +1,33 @@
+<div fxFlex fxLayout="column" fxLayoutAlign="center center">
+    <div fxFlex fxLayoutAlign="center center" id="search-div">
+        <mat-form-field>
+            <input type="text" ngModel matInput placeholder="Search" name="search"
+            search #searchInput="ngModel" (keyup) = "search(searchInput)">
+        </mat-form-field>
+    </div>
+
+    <section fxFlex fxLayout="row wrap" fxLayoutAlign="center" >
+        <mat-card fxFlex="500px" *ngFor="let accessory of data">
+
+            <img mat-card-image src="{{accessory.image}}" alt="Photo" width="200px" height="350px">
+
+            <mat-card-title fxLayoutAlign="center">
+                {{accessory.name}}
+            </mat-card-title>
+
+            <mat-card-content fxLayoutAlign="center">
+            <h3>Price: {{accessory.price}} DIN</h3>
+            </mat-card-content>
+
+            <mat-card-content fxLayoutAlign="center">
+                <p>Seller: {{accessory.seller_username}}</p>
+            </mat-card-content>
+
+            <mat-card-actions fxLayoutAlign="center">
+                <button mat-raised-button color="primary" (click)="showOneAccessory(accessory.id)">Details</button>
+            </mat-card-actions>
+        </mat-card>
+    </section>
+</div>
+
+

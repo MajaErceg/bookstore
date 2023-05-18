@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "6139e2186ff7ef649362bb76"
+  },
+  "username": "maja",
+  "city": "Beograd",
+  "address": "maja",
+  "payment": "paypal",
+  "price": 612.6,
+  "items": [
+    {
+      "name": "Fender Player Stratocaster PF",
+      "price": 473.1
+    },
+    {
+      "name": "Yamaha F 370 TBS",
+      "price": 139.5
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "613e2d6f4d39fe7894cadc34"
+  },
+  "username": "majaaa",
+  "city": "Beograd1",
+  "address": "Kneza Milosa 1",
+  "payment": "mastercard",
+  "price": 0,
+  "items": [
+    {
+      "id": 0
+    },
+    {
+      "id": 1
+    },
+    {
+      "id": 4
+    }
+  ],
+  "_class": "com.example.bookstorebackend.entity.Orders"
+},{
+  "_id": {
+    "$oid": "631de6dd0488557e68ab91ff"
+  },
+  "username": "makica10",
+  "city": "Sabac",
+  "address": "Kralja Petra",
+  "payment": "mastercard",
+  "price": 4098,
+  "items": [
+    {
+      "id": 0,
+      "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/335356_600_600px.jpg",
+      "name": "Bali and Lombok eyewitness",
+      "price": 1099
+    },
+    {
+      "id": 3,
+      "image": "https://www.knjizare-vulkan.rs/files/thumbs/files/images/slike_proizvoda/thumbs_600/357964_1_600_600px.jpg",
+      "name": "HARRY POTTER 3D puzzle Hogwarts",
+      "price": 2999
+    }
+  ],
+  "_class": "com.example.bookstorebackend.entity.Orders"
+}]

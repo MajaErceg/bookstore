@@ -1,0 +1,37 @@
+
+h1{
+    font-size: 22px;
+    color: #550019;
+    font-weight: bold;
+    margin: 20px 50px;
+    
+}
+
+p{
+    font-size: 17px;
+    font-style: italic;
+    margin: 20px 50px;
+    color: #550019;
+
+}
+h2{
+    font-size: 20px;
+    font-style: italic;
+    color: #550019;
+    font-weight: bold;
+    margin: 20px 50px;
+}
+
+.divWrapper{
+    height: 90vh;
+}
+img{
+    width: 400px;
+    height: 400px;
+    border: 3px solid burlywood;
+    border-radius: 10px;
+}
+button{
+    width: 200px;
+    margin: 20px 50px;
+}

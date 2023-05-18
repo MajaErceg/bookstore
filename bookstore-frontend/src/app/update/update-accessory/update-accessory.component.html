@@ -1,0 +1,38 @@
+<section fxLayout="column" fxLayoutAlign="center center" >
+    <form fxLayout="column" fxLayoutAlign="center center" fxLayoutGap="10px"
+    #f="ngForm" (ngSubmit)="onSubmit(f)">
+        <mat-form-field>
+            <input type="text" ngModel matInput placeholder="Artistic Accessory name" name="accessory"
+            required #accessoryInput="ngModel" [(ngModel)]="data.accessory">
+        </mat-form-field>
+
+        <mat-form-field>
+            <input type="text" ngModel matInput placeholder="Name" name="name"
+            required #nameInput="ngModel" [(ngModel)]="data.name">
+        </mat-form-field>
+
+        <mat-form-field >
+            <input type="text" ngModel matInput placeholder="Manufacturer" name="manufacturer"
+            required  #manufacturerInput="ngModel" [(ngModel)]="data.manufacturer">
+        </mat-form-field>
+
+        <mat-form-field >
+            <input type="number" ngModel matInput placeholder="Price" name="price"
+            required  #priceInput="ngModel" [(ngModel)]="data.price">
+        </mat-form-field>
+
+        <mat-form-field >
+            <textarea rows="8" type="text" ngModel matInput placeholder="Description" name="description"
+            required  #descriptionInput="ngModel" [(ngModel)]="data.description"></textarea>
+        </mat-form-field> 
+
+        <mat-form-field >
+            <input type="text" ngModel matInput placeholder="Image" name="image"
+            required  #imageInput="ngModel" [(ngModel)]="data.image">
+        </mat-form-field>
+
+        {{message}}
+
+        <button type="submit" mat-raised-button color="primary">Update</button>
+    </form>
+</section>

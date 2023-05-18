@@ -1,0 +1,81 @@
+<!--heder-->
+    
+<mat-toolbar style="background-color: #550019;">
+  <mat-toolbar-row>
+    <!--<div fxHide.gt-xs></div> -->
+      <button mat-icon-button >
+       <mat-icon (click)="sidenav.toggle();" style="color: white; padding-right: 30px;">menu</mat-icon>
+     </button>
+ 
+     <div>
+      <a routerLink="/">BOOKSTORE</a>
+  </div>
+
+   
+      <!--meni-->
+
+      
+    
+      <!-- https://github.com/angular/flex-layout/wiki/Responsive-API -->
+    
+      <div fxFlex fxLayoutAlign="end" fxLayoutGap="25px" >
+          <a routerLink="/products">PRODUCT</a>
+          
+          <a routerLink="/cart">CART</a>
+          <a routerLink="/profile">PROFILE</a>
+          <a *ngIf="!isloged" routerLink="/signup">SIGNUP</a>
+          <a *ngIf="!isloged" routerLink="/login">LOGIN</a>
+          <a *ngIf="isloged" routerLink="/login">LOGOUT</a>
+      </div>
+    
+    <router-outlet></router-outlet>
+
+<!--meni-->
+
+   </mat-toolbar-row>
+
+
+
+
+</mat-toolbar>
+
+
+<!--SIDENAV-->
+<mat-sidenav-container>
+<mat-sidenav #sidenav opened="false" mode="side" style="background-color: rgb(222, 184, 135, 0.7);">
+<mat-nav-list>
+  <a mat-list-item routerLink="/products" style="color:#550019; font-weight: bold;">
+ 
+    PRODUCT
+     
+  </a>
+<a mat-list-item routerLink="/myproducts" style="color:#550019; font-weight: bold;">
+  
+ MY PRODUCT
+</a>
+<a mat-list-item routerLink="/insert" style="color:#550019; font-weight: bold;">
+  
+  INSERT PRODUCT
+</a> 
+
+<a mat-list-item routerLink="/orders" style="color:#550019; font-weight: bold;">
+ 
+  ORDERS
+   
+</a>
+
+
+</mat-nav-list>
+</mat-sidenav>
+
+
+<mat-sidenav-content>
+ 
+<router-outlet></router-outlet>
+</mat-sidenav-content>
+
+
+</mat-sidenav-container>
+
+
+

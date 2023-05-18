@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6135c5975920d8e6b74a9bd5"
+  },
+  "fullname": "Maja Ercegovcevic",
+  "email": "majaerceg@gmail.com",
+  "username": "maja",
+  "password": "$wWX589AmpXWjt5POR8ihAH+Lz5umzFX0DBs++iCvY30=",
+  "city": "Sabac",
+  "address": "Kneza Milosa",
+  "birthday": "1999-11-15T23:00:00.000Z"
+},{
+  "_id": {
+    "$oid": "61379e78d6ec91037ecaa917"
+  },
+  "fullname": "TestTest",
+  "email": "test@gmail.com",
+  "username": "test",
+  "password": "$2a$10$RMiZY/tkEL2UUY5mt3TDP.LI54sP5b6COJEZlw0ooXVaHaatxBUna",
+  "city": "Beograd",
+  "address": "Kneza Milosa 1",
+  "birthday": "1999-07-07T22:00:00.000Z",
+  "_class": "com.example.bookstorebackend.entity.Users"
+},{
+  "_id": {
+    "$oid": "613e28d64d39fe7894cadc32"
+  },
+  "fullname": "majamaja",
+  "email": "maja99@mail.com",
+  "username": "majaaa",
+  "password": "$2a$10$X..KuJLtI2txcMOMhqe11u84e1Zp3W1fxv0lUsRoajuBLhOM/qhV.",
+  "city": "Beograd1",
+  "address": "Kneza Milosa 1",
+  "birthday": "1999-07-07T22:00:00.000Z",
+  "_class": "com.example.bookstorebackend.entity.Users"
+},{
+  "_id": {
+    "$oid": "631db005301d8f19089c9b8e"
+  },
+  "fullname": "Maki MAki",
+  "email": "makimaki@gmail.com",
+  "username": "makica10",
+  "password": "$2a$10$CG14q35msZYWAivz0B4LeOmg7yCNRIZ6gXE7NyeB4fvYKEU7FGosq",
+  "city": "Sabac",
+  "address": "Kralja Petra",
+  "birthday": "2000-10-09T22:00:00.000Z",
+  "_class": "com.example.bookstorebackend.entity.Users"
+}]

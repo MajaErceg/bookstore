@@ -1,0 +1,44 @@
+<section fxLayout="column" fxLayoutAlign="center center">
+    <form fxLayout="column" fxLayoutAlign="center center" fxLayoutGap="10px"
+    #f="ngForm" (ngSubmit)="onSubmit(f)">
+        <mat-form-field>
+            <input type="text" ngModel matInput placeholder="School supplies name" name="school_supplies"
+            required #schoolInput="ngModel">
+            <mat-error *ngIf="schoolInput.hasError('required')">Field should not be empty</mat-error>
+        </mat-form-field>
+
+        <mat-form-field>
+            <input type="text" ngModel matInput placeholder="Name" name="name"
+            required #nameInput="ngModel">
+            <mat-error *ngIf="nameInput.hasError('required')">Field should not be empty</mat-error>
+        </mat-form-field>
+
+        <mat-form-field >
+            <input type="text" ngModel matInput placeholder="Manufacturer" name="manufacturer"
+            required  #manufacturerInput="ngModel">
+            <mat-error *ngIf="manufacturerInput.hasError('required')">Field should not be empty</mat-error>
+        </mat-form-field>
+
+        <mat-form-field >
+            <input type="number" ngModel matInput placeholder="Price" name="price"
+            required  #priceInput="ngModel">
+            <mat-error *ngIf="priceInput.hasError('required')">Field should not be empty</mat-error>
+        </mat-form-field>
+
+        <mat-form-field >
+            <textarea rows="8" type="text" ngModel matInput placeholder="Description" name="description"
+            required  #descriptionInput="ngModel"></textarea>
+            <mat-error *ngIf="descriptionInput.hasError('required')">Field should not be empty</mat-error>
+        </mat-form-field> 
+
+        <mat-form-field >
+            <input type="text" ngModel matInput placeholder="Image" name="image"
+            required  #imageInput="ngModel">
+            <mat-error *ngIf="imageInput.hasError('required')">Field should not be empty</mat-error>
+        </mat-form-field>
+
+        {{message || ""}}
+
+        <button type="submit" mat-raised-button color="primary" [disabled]="f.invalid">Submit</button>
+    </form>
+</section>

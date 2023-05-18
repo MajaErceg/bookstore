@@ -1,0 +1,15 @@
+#main-div{
+    height: 100vh;
+    background-image: url('/assets/img/bk33.jpg/');
+}
+
+#second-div{
+   
+    background-color: rgb(222, 184, 135, 0.7);
+}
+
+h1{
+    color: #550019;
+    font-size: 50px;
+    margin: 50px 0px;
+}
